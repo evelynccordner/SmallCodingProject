@@ -1,0 +1,2 @@
+serviceClass: strava.client.GreetingService
+path: 3A52A77BB6314EA1C5EBF161ED6662C4.gwt.rpc
